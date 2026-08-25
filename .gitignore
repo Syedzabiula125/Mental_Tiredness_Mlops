@@ -1,0 +1,9 @@
+project/
+__pycache__/
+*.pyc
+app.joblib
+prediction_logs.csv
+.venv/
+venv/
+env/
+.vscode/
